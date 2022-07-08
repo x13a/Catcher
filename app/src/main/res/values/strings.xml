@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Catcher</string>
+    <string name="description">The app monitor for permission changes. If any app will get INTERNET permission after an update you will get a notification.</string>
+    <string name="notification_title">ALERT</string>
+    <string name="notification_channel">Alert</string>
+    <string name="notification_text">%1$s (%2$s) has got INTERNET permission!</string>
+    <string name="unknown_app">An unknown app</string>
+    <string name="goto_button">GOTO</string>
+</resources>

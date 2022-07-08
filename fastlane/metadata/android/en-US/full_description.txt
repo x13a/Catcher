@@ -1,0 +1,8 @@
+Tiny app to monitor permission changes.
+If any app will get INTERNET permission after an update you will get a notification.
+
+Permissions:
+* NOTIFICATION_LISTENER - monitor for apps install/update/delete
+
+It is Free Open Source Software.
+License: GPL-3
