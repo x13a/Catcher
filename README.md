@@ -2,21 +2,14 @@
 
 Permission monitor.
 
-[comment]: <> ([<img)
-
-[comment]: <> (     src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png")
-
-[comment]: <> (     alt="Get it on F-Droid")
-
-[comment]: <> (     height="80">]&#40;https://f-droid.org/packages/me.lucky.catcher/&#41;)
-
-[comment]: <> ([<img)
-
-[comment]: <> (      src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png")
-
-[comment]: <> (      alt="Get it on Google Play")
-
-[comment]: <> (      height="80">]&#40;https://play.google.com/store/apps/details?id=me.lucky.catcher&#41;)
+[<img
+     src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/me.lucky.catcher/)
+[<img
+      src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+      alt="Get it on Google Play"
+      height="80">](https://play.google.com/store/apps/details?id=me.lucky.catcher)
 
 <img 
      src="https://raw.githubusercontent.com/x13a/Catcher/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" 
